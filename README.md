@@ -51,10 +51,8 @@ URL:- https://drive.google.com/file/d/1LyuLnu5ZlIX-V6vVvLUggRfnnskqufZ5/view?usp
 ## Wireframe document
 URL:- https://drive.google.com/file/d/1XmkH9p1uVLYUY-y6-mSRiJZhf-WhXuJ1/view?usp=sharing
 
-## Demo video
-URL:- https://youtu.be/k0VswDZ1waA
 
-  
+
 ## References
  
  - [Testing the compressive strength of a concrete in laboratory](https://www.youtube.com/watch?v=t4RDdn6rOwU&ab_channel=Anime_Edu-CivilEngineeringVideos) 
@@ -70,6 +68,6 @@ URL:- https://youtu.be/k0VswDZ1waA
  - [HTML, CSS tutorials ](https://www.w3schools.com/)
 ## Author
 
-- Sesha Venkata Sriram Erramilli [LinkedIn](https://www.linkedin.com/in/svsriramerramilli/)
+- SANTHOSH KUMAR S [LinkedIn](https://www.linkedin.com/in/santhoshsanti2140)
 
   
