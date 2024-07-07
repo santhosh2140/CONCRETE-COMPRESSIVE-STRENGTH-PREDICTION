@@ -30,7 +30,8 @@ Deployed on web using Heroku (PaaS)
 url:- https://ccs-predictor.herokuapp.com/
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/22242325/134782546-83e740aa-c0c5-45d9-a302-6f30b4362d7e.png)
+![WhatsApp Image 2024-07-07 at 09 12 54_861c171e](https://github.com/santhosh2140/CONCRETE-COMPRESSIVE-STRENGTH-PREDICTION/assets/155990837/c9b69fbb-3d50-4a68-939e-a887626c4615)
+
 
 ## Tools and technologies used
 
