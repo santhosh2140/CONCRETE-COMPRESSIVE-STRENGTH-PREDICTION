@@ -1,3 +1,4 @@
+print("bye")
 import logging
 from data_ingestion.data_loader import DataLoad
 from data_preprocessing.data_preprocessing import DataPreprocessor
