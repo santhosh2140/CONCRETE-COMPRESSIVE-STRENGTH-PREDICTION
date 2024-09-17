@@ -54,4 +54,4 @@ def predict():
 
 if __name__ == "__main__":
     app.run(debug=True)
-print("helo santhosh kumar")
+print("helo santhosh kumar s")
